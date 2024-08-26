@@ -15,3 +15,5 @@
   <a href="https://www.linkedin.com/in/bruna-neves-757546100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ✨
 </div>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrunaneves&show_icons=true&title_color=#230039&text_color=#340055&icon_color=783c00&bg_color=#340055&cache_seconds=2300" alt="ilustração do status do github">
