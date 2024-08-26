@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ✨ Hello! My name is Bruna, I'm 31 years old, and I'm currently studying Systems Analysis and Development. I have two adorable cats, and I love reading horror books. 👻
+  ✨ Hello! My name is Bruna, I'm 31 years old, and I'm currently studying Systems Analysis and Development. I have two adorable cats, and I love reading horror books. 👻 
 </p>
-
+<br>
+<br>
 <p align="left">
-  💌 Where you can find me: ⤵️
+ <b> 💌 Where you can find me: ⤵️ </b> 
 </p>
 
 <p align="left">
