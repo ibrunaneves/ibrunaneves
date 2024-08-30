@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=b4a7d6&random=false&width=435&lines=I'm+Bruna+Neves+:D)](https://git.io/typing-svg#gh-light-mode-only)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=BD93F9&width=435&lines=I'm+Bruna+Neves+:D)](https://git.io/typing-svg#gh-light-mode-only)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -19,4 +18,10 @@
 </div>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrunaneves&show_icons=true&title_color=#230039&text_color=#340055&icon_color=783c00&bg_color=#340055&cache_seconds=2300" alt="ilustração do status do github">
+<div style="text-align: center;">
+   <a href="https://github.com/ibrunaneves">
+   <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunaneves&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas"/>
+   </a>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrunaneves&show_icons=true&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&bg_color=282a36&cache_seconds=2300" alt="ilustração do status do github">
