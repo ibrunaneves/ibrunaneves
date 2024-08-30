@@ -1,9 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=b4a7d6&random=false&width=435&lines=I'm+Bruna+Neves+:D)](https://git.io/typing-svg#gh-light-mode-only)
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ✨ Hello! My name is Bruna, I'm 31 years old, and I'm currently studying Systems Analysis and Development. I have two adorable cats, and I love reading horror books. 👻 
+  ✨ I'm 31 years old, and I'm currently studying Systems Analysis and Development. I have two adorable cats, and I love reading horror books. 👻 
 </p>
-<br>
 <br>
 <p align="left">
  <b> 💌 Where you can find me: ⤵️ </b> 
