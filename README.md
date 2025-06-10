@@ -13,7 +13,7 @@
 • 🎨 Também amo front-end com **HTML, CSS, JavaScript e React**  
 • 🧪 Explorando ciência de dados com **Python, Pandas, Numpy, Scikit-learn**  
 • ✨ Buscando oportunidades de estágio em desenvolvimento **full stack**  
-• 👩‍💻 Organizadora do **Code Rosa**, comunidade para mulheres na tecnologia  
+• 👩‍💻 Parte da administração do **Code Rosa**, comunidade para mulheres na tecnologia  
 
 ---
 
