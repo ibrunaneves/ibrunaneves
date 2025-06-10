@@ -19,17 +19,24 @@
 
 ### 🎨 Tecnologias que uso
 
-#### ☕ Back-end
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" height="32" />
+#### ☕ Back-end  
+![Java](https://img.shields.io/badge/Java-fff0f5?style=flat&logo=java&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-f0fff0?style=flat&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-fffaf0?style=flat&logo=nodedotjs&logoColor=339933)
 
-#### 🗃️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql" height="32" />
+#### 🗃️ Banco de Dados  
+![MySQL](https://img.shields.io/badge/MySQL-f0ffff?style=flat&logo=mysql&logoColor=005C84)
+![HSQLDB](https://img.shields.io/badge/HSQLDB-fff0f5?style=flat&logoColor=336791)
 
-#### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="32" />
+#### 🎨 Front-end  
+![HTML5](https://img.shields.io/badge/HTML5-fffaf0?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-f0ffff?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-f5f5ff?style=flat&logo=react&logoColor=61DAFB)
 
-#### 🧪 Python & Data Science
-<img src="https://skillicons.dev/icons?i=python" height="32" /> + Pandas | Numpy | Scikit-learn
+#### 🧪 Python & Data Science  
+![Python](https://img.shields.io/badge/Python-fffaf0?style=flat&logo=python&logoColor=3776AB)  
+➕ Pandas | Numpy | Scikit-learn
 
 ---
 
@@ -63,13 +70,13 @@
 
 <p align="center">
   <a href="https://github.com/ibrunaneves" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="36" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/ibrunaneves/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffe0f0?style=flat&logo=linkedin&logoColor=0077B5" height="28" />
   </a>
   <a href="mailto:ibrunaneves@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" />
+    <img src="https://img.shields.io/badge/Gmail-fffaf0?style=flat&logo=gmail&logoColor=D14836" height="28" />
   </a>
 </p>
 
@@ -80,4 +87,3 @@
 📌 Disponível para **estágios** e projetos como dev **full stack**, com foco especial em back-end Java ou Node.js  
 💡 Amo transformar ideias em código e participar de projetos com impacto real  
 🚀 Sempre pronta para aprender, crescer e colaborar com criatividade 💕
-
