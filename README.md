@@ -1,27 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=100&size=24&pause=1000&color=BD93F9&width=435&lines=I'm+Bruna+Neves+:D)](https://git.io/typing-svg#gh-light-mode-only)
+<h2 align="center">✨ Bruna Neves ✨</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  ✨ I'm 32 years old, and I'm currently studying Systems Analysis and Development. I have two adorable cats, and I love reading horror books. 👻 
-</p>
-<br>
-<p align="left">
- <b> 💌 Where you can find me: ⤵️ </b> 
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Full Stack ☕
 </p>
 
-<p align="left">
-<div align="center">
-✨  <a href="https://instagram.com/ibrunaneves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ibrunaneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-neves-757546100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ✨
-</div>
+---
+
+### 🌸 Sobre mim
+
+• 🎓 Estudante de ADS na Unifacisa  
+• 💻 Foco atual: back-end com **Java, Spring Boot, JPA, MySQL e Node.js**  
+• 🎨 Também amo front-end com **HTML, CSS, JavaScript e React**  
+• 🧪 Explorando ciência de dados com **Python, Pandas, Numpy, Scikit-learn**  
+• ✨ Buscando oportunidades de estágio em desenvolvimento **full stack**  
+• 👩‍💻 Organizadora do **Code Rosa**, comunidade para mulheres na tecnologia  
+
+---
+
+### 🎨 Tecnologias que uso
+
+#### ☕ Back-end
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" height="32" />
+
+#### 🗃️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql" height="32" />
+
+#### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="32" />
+
+#### 🧪 Python & Data Science
+<img src="https://skillicons.dev/icons?i=python" height="32" /> + Pandas | Numpy | Scikit-learn
+
+---
+
+### 📊 Linguagens mais usadas
+
+<p align="center">
+  <span>
+    <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="170" alt="Dev Girl Coding" style="vertical-align: middle;" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunaneves&layout=compact&theme=dracula&hide=Jupyter%20Notebook" height="170" style="vertical-align: middle;" />
+  </span>
 </p>
 
-<div style="text-align: center;">
-   <a href="https://github.com/ibrunaneves">
-   <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunaneves&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas"/>
-   </a>
-</div>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrunaneves&show_icons=true&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&bg_color=282a36&cache_seconds=2300" alt="ilustração do status do github">
+### 🌟 Projetos em destaque
+
+- [**Sistema de Biblioteca em Java**](https://github.com/ibrunaneves/BibliotecaJava)  
+  CRUD com herança, enum, console e JPA.
+
+- [**Análise de Dados com Python**](https://github.com/ibrunaneves/PraticasDeMachineLearning)  
+  Projetos com Pandas, aprendizado de máquina e detecção de fraudes.
+
+- [**Portfólio pessoal em React**](https://developer-portifolio-phi.vercel.app/#)  
+  Interface moderna com TailwindCSS, Framer Motion e EmailJS.
+
+---
+
+### 📬 Contato
+
+<p align="center">
+  <a href="https://github.com/ibrunaneves" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrunaneves/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
+  </a>
+  <a href="mailto:ibrunaneves@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" />
+  </a>
+</p>
+
+---
+
+### ✨ Recrutadores
+
+📌 Disponível para **estágios** e projetos como dev **full stack**, com foco especial em back-end Java ou Node.js  
+💡 Amo transformar ideias em código e participar de projetos com impacto real  
+🚀 Sempre pronta para aprender, crescer e colaborar com criatividade 💕
+
