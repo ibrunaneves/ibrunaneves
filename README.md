@@ -1,23 +1,34 @@
 <h2 align="center">✨ Bruna Neves ✨</h2>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Full Stack ☕
+  Desenvolvedora Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
-### 🌸 Sobre mim
+## 💡 Resumo
 
-• 🎓 Estudante de ADS na Unifacisa  
-• 💻 Foco atual: back-end com **Java, Spring Boot, JPA, MySQL e Node.js**  
-• 🎨 Também amo front-end com **HTML, CSS, JavaScript e React**  
-• 🧪 Explorando ciência de dados com **Python, Pandas, Numpy, Scikit-learn**  
-• ✨ Buscando oportunidades de estágio em desenvolvimento **full stack**  
-• 👩‍💻 Parte da administração do **Code Rosa**, projeto de extensão voltado para mulheres na tecnologia  
+Sou estudante de ADS na Unifacisa, com foco em desenvolvimento **back-end** usando **Java, Spring Boot, JPA, MySQL e Node.js**, e experiência complementar em **front-end** com React, HTML, CSS e JavaScript.  
+Atualmente faço parte da coordenação do **Code Rosa**, projeto que apoia mulheres na tecnologia, e estou em busca de oportunidades de estágio ou projetos como **Full Stack Developer** — com foco especial em back-end.
 
 ---
 
-### 🎨 Tecnologias que uso
+## 🌸 Sobre mim
+
+- 💼 Experiência prática em projetos colaborativos com Java, Spring Boot e integração de APIs REST  
+- 🛠️ Domínio de Git/GitHub, modelagem de bancos de dados e versionamento de código  
+- 📚 Participação ativa em bootcamps e hackathons, desenvolvendo soluções de ponta a ponta  
+- 👩‍💻 Coordenação do projeto de extensão **Code Rosa**, organizando workshops e mentorias para mulheres na tecnologia  
+- 🌱 Sempre aprendendo novas tecnologias — atualmente explorando microsserviços, autenticação JWT e Docker  
+- 🐾 Apaixonada por tecnologia, café e… gatos  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="150" alt="Dev Girl Coding" />
+</p>
+
+---
+
+## 🎨 Tecnologias
 
 #### ☕ Back-end  
 ![Java](https://img.shields.io/badge/Java-fff0f5?style=flat&logo=java&logoColor=ED8B00)
@@ -34,40 +45,50 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-f5f5ff?style=flat&logo=react&logoColor=61DAFB)
 
-#### 🧪 Python & Data Science  
-![Python](https://img.shields.io/badge/Python-fffaf0?style=flat&logo=python&logoColor=3776AB)  
-➕ Pandas | Numpy | Scikit-learn
+#### 🧪 Data Science  
+![Python](https://img.shields.io/badge/Python-fffaf0?style=flat&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 📊 Linguagens mais usadas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <span>
-    <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="170" alt="Dev Girl Coding" style="vertical-align: middle;" />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunaneves&layout=compact&theme=dracula&hide=Jupyter%20Notebook" height="170" style="vertical-align: middle;" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrunaneves&show_icons=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunaneves&layout=compact&theme=dracula&hide=Jupyter%20Notebook" height="170" />
 </p>
 
 ---
 
-### 🌟 Projetos em destaque
+## 🌟 Projetos em destaque
 
-- [**Sistema de Rastreamento de Pedidos em Java**](https://github.com/raiane-oliveira/loja-accenture-summer-academy)  
-  Aplicação Java desenvolvida com Spring Boot para gerenciar pedidos, histórico de status e funcionalidades de rastreamento.
-  A aplicação também utiliza Swagger para documentação da API, RabbitMQ para comunicação assíncrona e JPA para persistência de dados.
-
-- [**Análise de Dados com Python**](https://github.com/ibrunaneves/PraticasDeMachineLearning)  
-  Projetos com Pandas, aprendizado de máquina e detecção de fraudes.
-
-- [**Portfólio pessoal em React**](https://developer-portifolio-phi.vercel.app/#)  
-  Portfólio desenvolvido no curso livre de HTML, CSS e JS.
+### [Sistema de Rastreamento de Pedidos](https://github.com/raiane-oliveira/loja-accenture-summer-academy)  
+**Java, Spring Boot, RabbitMQ, Swagger, JPA, MySQL**  
+Aplicação para gerenciar pedidos e rastrear status em tempo real.  
+**Funções principais:**  
+- CRUD de pedidos  
+- Histórico de alterações  
+- Comunicação assíncrona com RabbitMQ  
+- Documentação interativa com Swagger  
+**Papel:** desenvolvimento back-end, modelagem de banco e integração RabbitMQ.
 
 ---
 
-### 📬 Contato
+### [Análise de Dados com Python](https://github.com/ibrunaneves/PraticasDeMachineLearning)  
+**Python, Pandas, Scikit-learn**  
+Projetos voltados para análise de dados e aprendizado de máquina, incluindo detecção de fraudes e modelagem preditiva.
+
+---
+
+### [Portfólio Pessoal em React](https://developer-portifolio-phi.vercel.app/#)  
+**React, Tailwind CSS**  
+Site pessoal para apresentação de projetos, com design responsivo e animações leves.
+
+---
+
+## 📬 Contato
 
 <p align="center">
   <a href="https://github.com/ibrunaneves" target="_blank">
@@ -83,8 +104,8 @@
 
 ---
 
-### ✨ Recrutadores
+## ✨ Disponibilidade
 
-📌 Disponível para **estágios** e projetos como dev **full stack**, com foco especial em back-end Java ou Node.js  
-💡 Amo transformar ideias em código e participar de projetos com impacto real  
-🚀 Sempre pronta para aprender, crescer e colaborar com criatividade 💕
+📌 Aberta a **estágios** e projetos como **Full Stack Developer**  
+💡 Amo transformar ideias em código e colaborar com soluções criativas  
+🚀 Sempre pronta para aprender e crescer profissionalmente
