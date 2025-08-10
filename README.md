@@ -55,14 +55,15 @@
 
 ### 🌟 Projetos em destaque
 
-- [**Sistema de Biblioteca em Java**](https://github.com/ibrunaneves/BibliotecaJava)  
-  CRUD com herança, enum, console e JPA.
+- [**Sistema de Rastreamento de Pedidos em Java**](https://github.com/raiane-oliveira/loja-accenture-summer-academy)  
+  Aplicação Java desenvolvida com Spring Boot para gerenciar pedidos, histórico de status e funcionalidades de rastreamento.
+  A aplicação também utiliza Swagger para documentação da API, RabbitMQ para comunicação assíncrona e JPA para persistência de dados.
 
 - [**Análise de Dados com Python**](https://github.com/ibrunaneves/PraticasDeMachineLearning)  
   Projetos com Pandas, aprendizado de máquina e detecção de fraudes.
 
 - [**Portfólio pessoal em React**](https://developer-portifolio-phi.vercel.app/#)  
-  Interface moderna com TailwindCSS, Framer Motion e EmailJS.
+  Portfólio desenvolvido no curso livre de HTML, CSS e JS.
 
 ---
 
