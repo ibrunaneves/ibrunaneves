@@ -8,7 +8,7 @@
 
 ## 💡 Resumo
 
-Sou Analista Pleno, atuando na área de Custom Software Engineering, e estudante de ADS na Unifacisa, com foco em desenvolvimento **back-end** usando **Java, Spring Boot, JPA, MySQL e Node.js**, e experiência complementar em **front-end** com React, HTML, CSS e JavaScript.  
+Sou Analista Pleno, atuando na área de SAP, estudante de ADS na Unifacisa, com foco em desenvolvimento **back-end** usando **Java, Spring Boot, JPA, MySQL e Node.js**, e experiência complementar em **front-end** com React, HTML, CSS e JavaScript.  
 Atualmente faço parte da coordenação do **Code Rosa**, projeto que apoia mulheres na tecnologia, e estou em busca de oportunidades de estágio ou projetos como **Full Stack Developer** — com foco especial em back-end.
 
 ---
