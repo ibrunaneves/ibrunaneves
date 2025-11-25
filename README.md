@@ -103,9 +103,3 @@ Site pessoal para apresentação de projetos, com design responsivo e animaçõe
 </p>
 
 ---
-
-## ✨ Disponibilidade
-
-📌 Aberta a **estágios** e projetos como **Full Stack Developer**  
-💡 Amo transformar ideias em código e colaborar com soluções criativas  
-🚀 Sempre pronta para aprender e crescer profissionalmente
