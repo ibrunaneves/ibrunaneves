@@ -1,7 +1,7 @@
 <h2 align="center">✨ Bruna Neves ✨</h2>
 
 <p align="center">
-  Analista Pleno – Custom Software Engineering | Estudante de Análise e Desenvolvimento de Sistemas
+  Custom Software Engineering | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
